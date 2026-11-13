@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EndoPulse</string>
+    <string name="nav_dashboard">Pulse</string>
+    <string name="nav_challenges">Quests</string>
+    <string name="nav_log">Check-In</string>
+    <string name="nav_trends">Trends</string>
+    <string name="nav_research">Science</string>
+    <string name="disclaimer_banner">Educational physiological estimator based on lifestyle research. Not a medical device or substitute for blood lab assays.</string>
+</resources>

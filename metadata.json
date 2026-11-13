@@ -1,0 +1,6 @@
+{
+  "name": "EndoPulse",
+  "description": "Local-first daily habit and sleep tracker modeling research-backed Testosterone, Cortisol, Dopamine, and Serotonin balance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
